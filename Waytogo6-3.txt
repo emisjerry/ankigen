@@ -1,0 +1,22 @@
+; 標籤行必須以井號開頭，每個標籤以空白分隔
+#WaytoGo #WayToGo6 #WayToGo6-Unit3
+; ==========
+; 單字
+July
+August
+September
+October
+November
+December
+; ==========
+; 片語以Tab分隔
+short-shorter	矮的
+tall-taller	高的
+old-older	老的
+young-younger	年輕的
+; ==========
+; 克漏字必須有{{c1::xxx}}
+Nicole is tall. Matt is {{c1::taller}}. / Nicole是高的，Matt比較高。
+Who is {{c1::shorter}}, Chevady or Ellie? / 誰比較矮？Chevady或Ellie?
+Chevady is {{c1::shorter}}. / Chevady比較矮。
+Chevady is {{c1::shorter}} {{c2::than}} Ellie. / chevady比Ellie矮。

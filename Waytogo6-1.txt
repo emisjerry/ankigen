@@ -1,0 +1,30 @@
+; 標籤行必須以井號開頭，每個標籤以空白分隔
+#WaytoGo #WayToGo6 #WayToGo6-Unit1
+; ==========
+; 單字
+park
+library
+; ==========
+; 片語以Tab分隔
+baseball field	棒球場
+post office	郵局
+movie theater	電影院
+cyber cafe	網咖
+watch a baseball game	看棒球賽
+mail a letter	郵寄信件
+see a dentist	看牙醫
+see a movie	看電影
+meet a friend	約見朋友
+buy a bike	買腳踏車
+; ==========
+; 克漏字必須有{{c1::xxx}}
+I love {{c1::summer}} {{c2::vacation}}. / 我喜歡暑假
+Me too. What are you {{c1::going}} to do tomorrow?
+A: I'm going to meet my {{c1::friends}}. B: Cool! Where?
+By the new movie {{c1::theater}}.
+B: Can I come with you? A: Sure. I'll meet you here at three {{c1::o'clock}}.
+A: What are you going to do tomorrow? B: I'm going to watch a {{c1::baseball}} game. 
+He {{c1::is}} going to watch a baseball game.
+She {{c1::is}} going to watch a baseball game.
+We {{c1::are}} going to watch a baseball game.
+They {{c1::are}} going to watch a baseball game.
