@@ -1,0 +1,11 @@
+; 標籤行必須以井號開頭，每個標籤以空白分隔
+#WaytoGo #WayToGo6 #WayToGo6-Unit1
+; ==========
+; 單字
+park
+; ==========
+; 片語以Tab分隔
+post office	郵局
+; ==========
+; 克漏字必須有{{c1::xxx}}
+I love {{c1::summer}} {{c2::vacation}}. / 我喜歡暑假
