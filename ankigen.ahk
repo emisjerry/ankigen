@@ -34,13 +34,13 @@ action_word =
     "version": 6,
     "params": {
       "note": {
-        "deckName": "Default",
+        "deckName": "預設",
         "modelName": "基本型（含反向卡片）",
         "options": {
           "allowDuplicate": true,
           "duplicateScope": "deck",
           "duplicateScopeOptions": {
-            "deckName": "Default",
+            "deckName": "預設",
             "checkChildren": false
           }
         },
@@ -71,13 +71,13 @@ action_phrase =
     "version": 6,
     "params": {
       "note": {
-        "deckName": "Default",
+        "deckName": "預設",
         "modelName": "基本型（含反向卡片）",
         "options": {
           "allowDuplicate": true,
           "duplicateScope": "deck",
           "duplicateScopeOptions": {
-            "deckName": "Default",
+            "deckName": "預設",
             "checkChildren": false
           }
         },
@@ -100,13 +100,13 @@ action_cloze =
     "version": 6,
     "params": {
       "note": {
-        "deckName": "Default",
+        "deckName": "預設",
         "modelName": "克漏字",
         "options": {
           "allowDuplicate": true,
           "duplicateScope": "deck",
           "duplicateScopeOptions": {
-            "deckName": "Default",
+            "deckName": "預設",
             "checkChildren": false
           }
         },
